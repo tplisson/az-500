@@ -5,13 +5,6 @@
 
 [Study Guide](https://learn.microsoft.com/en-gb/certifications/resources/study-guides/az-500)
 
-## Prep Videos
-- [Preparing for AZ-500 - Manage identity and access (1 of 4)](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-az-500-manage-identity-and-access-1-of-4)
-- [Preparing for AZ-500 – Secure Networking (2 of 4)](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-az-500-secure-networking-2-of-4)
-- [Preparing for AZ-500 – Secure compute, storage, and databases (3 of 4)](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-az-500-secure-networking-3-of-4)
-- [Preparing for AZ-500 – Manage security operations (4 of 4)](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-az-500-secure-networking-4-of-4)
-
-
 <p align="center">
   <img src="images/az-500-badge.svg" {:height="25%" width="25%"}>
 </p>
@@ -58,4 +51,13 @@ Expiration |	12 months
 [ ] | Configure and manage Azure Monitor (1 hr 3 min, 10 Units)
 [ ] | Enable and manage Microsoft Defender for Cloud (1 hr 21 min, 12 Units)
 [ ] | Configure and monitor Microsoft Sentinel (45 min, 9 Units)
+
+
+## Prep Videos
+- [Preparing for AZ-500 - Manage identity and access (1 of 4)](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-az-500-manage-identity-and-access-1-of-4)
+- [Preparing for AZ-500 – Secure Networking (2 of 4)](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-az-500-secure-networking-2-of-4)
+- [Preparing for AZ-500 – Secure compute, storage, and databases (3 of 4)](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-az-500-secure-networking-3-of-4)
+- [Preparing for AZ-500 – Manage security operations (4 of 4)](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-az-500-secure-networking-4-of-4)
+
+
 ---  
