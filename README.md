@@ -1,5 +1,5 @@
 # AZ-500 Microsoft Certified: Azure Security Engineer Associate — Study Notes
-## AZ-500: Microsoft Azure Security Technologies
+## Microsoft Azure Security Technologies
 
 [Exam objectives](https://learn.microsoft.com/en-us/certifications/exams/az-500/)
 
