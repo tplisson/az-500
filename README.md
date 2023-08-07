@@ -30,8 +30,7 @@ Expiration |	12 months
 
 | Section | Exam Objective     |  Documentation   | Tutorial  |
 | ------- | ------------------ |  --------------- | --------- | 
-**1** |	**Explain Consul architecture**
-[ ] **1** | **Manage Identity and Access** (5 Modules)
+- [ ] **1** | **Manage Identity and Access** (5 Modules)
 [ ] | Secure Azure solutions with Azure Active Directory (12 Units)
 [ ] | Implement Hybrid identity (10 Units)
 [ ] | Deploy Azure AD identity protection = 1 hr 40 min = 14 Units
