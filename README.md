@@ -33,23 +33,23 @@ Expiration |	12 months
 **1** | **Manage Identity and Access** (5 Modules)
 |   | Secure Azure solutions with Azure Active Directory (12 Units)
 |   | Implement Hybrid identity (10 Units)
-|   | Deploy Azure AD identity protection = 1 hr 40 min = 14 Units
-|   | Configure Azure AD privileged identity management = 1 hr 19 min = 11 Units
-|   | Design an enterprise governance strategy = 1 hr 37 min = 14 Units
+|   | Deploy Azure AD identity protection (14 Units)
+|   | Configure Azure AD privileged identity management (11 Units)
+|   | Design an enterprise governance strategy (14 Units)
 |   **2** | **AZ-500 part2: Implement platform protection** (4 Modules)
-|   | Implement perimeter security (1 hr 22 min, 13 Units)
-|   | Configure network security (1 hr 33 min, 14 Units)
-|   | Configure and manage host security (1 hr 44 min, 14 Units)
-|   | Enable Containers security (1 hr 23 min, 14 Units)
+|   | Implement perimeter security (13 Units)
+|   | Configure network security (14 Units)
+|   | Configure and manage host security (14 Units)
+|   | Enable Containers security (14 Units)
 |   **3** | **AZ-500 part 3: Secure your data and applications** (4 Modules)
-|   | Deploy and secure Azure Key Vault (1 hr 31 min, 14 Units)
-|   | Configure application security features (1 hr 3 min, 10 Units)
-|   | Implement storage security (1 hr 22 min, 12 Units)
-|   | Configure and manage SQL database security (1 hr 39 min, 14 Units)
+|   | Deploy and secure Azure Key Vault (14 Units)
+|   | Configure application security features (10 Units)
+|   | Implement storage security (12 Units)
+|   | Configure and manage SQL database security (14 Units)
 |   **4** | **AZ-500 part 4: Manage security operation** (3 Modules)
-|   | Configure and manage Azure Monitor (1 hr 3 min, 10 Units)
-|   | Enable and manage Microsoft Defender for Cloud (1 hr 21 min, 12 Units)
-|   | Configure and monitor Microsoft Sentinel (45 min, 9 Units)
+|   | Configure and manage Azure Monitor (10 Units)
+|   | Enable and manage Microsoft Defender for Cloud (12 Units)
+|   | Configure and monitor Microsoft Sentinel (9 Units)
 
 
 ## Prep Videos
