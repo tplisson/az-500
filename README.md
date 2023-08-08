@@ -35,15 +35,15 @@ Section | Exam Objective     |  Documentation   | Tutorial  |
 | | Manage authentication by using Azure AD
 | | Manage authorization by using Azure AD
 | | Manage application access in Azure AD
-**2** | **Secure networking (20–25%)** |
+**2** | [**Secure networking (20–25%)**](#part2/README.md) |
 | | Plan and implement security for virtual networks
 | | Plan and implement security for private access to Azure resources
 | | Plan and implement security for public access to Azure resources
-**3** | **Secure compute, storage, and databases (20–25%)**
+**3** | [**Secure compute, storage, and databases (20–25%)**](#part3/README.md)
 | | Plan and implement advanced security for compute
 | | Plan and implement security for storage
 | | Plan and implement security for Azure SQL Database and Azure SQL Managed Instance
-**4** | **Manage security operations (25–30%)**
+**4** | [**Manage security operations (25–30%)**](#part4/README.md)
 | | Plan, implement, and manage governance for security
 | | Manage security posture by using Microsoft Defender for Cloud
 | | Configure and manage threat protection by using Microsoft Defender for Cloud
