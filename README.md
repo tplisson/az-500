@@ -26,11 +26,52 @@ Expiration |	12 months
 
 ---  
 
-## Exam objectives
+## Exam Objectives as of Aug 2023
+
+Section | Exam Objective     |  Documentation   | Tutorial  |
+------- | ------------------ |  --------------- | --------- | 
+**1** | [**Manage Identity and Access (25–30%)**](#part1/README.md)
+| | Manage identities in Azure AD
+| | Manage authentication by using Azure AD
+| | Manage authorization by using Azure AD
+| | Manage application access in Azure AD
+**2** | **Secure networking (20–25%)** |
+| | Plan and implement security for virtual networks
+| | Plan and implement security for private access to Azure resources
+| | Plan and implement security for public access to Azure resources
+**3** | **Secure compute, storage, and databases (20–25%)**
+| | Plan and implement advanced security for compute
+| | Plan and implement security for storage
+| | Plan and implement security for Azure SQL Database and Azure SQL Managed Instance
+**4** | **Manage security operations (25–30%)**
+| | Plan, implement, and manage governance for security
+| | Manage security posture by using Microsoft Defender for Cloud
+| | Configure and manage threat protection by using Microsoft Defender for Cloud
+| | Configure and manage security monitoring and automation solutions
+| | 
+| | 
+| | 
+| | 
+| | 
+| | 
+| | 
+| | 
+| | 
+| | 
+| | 
+| | 
+| | 
+| | 
+| | 
+| | 
+
+
+
+## Exam Objectives - LEGACY
 
 | Section | Exam Objective     |  Documentation   | Tutorial  |
 | ------- | ------------------ |  --------------- | --------- | 
-**1** | **Manage Identity and Access** (5 Modules)
+**1** | **Manage Identity and Access (25–30%)** (5 Modules)
 |   | Secure Azure solutions with Azure Active Directory (12 Units)
 |   | Implement Hybrid identity (10 Units)
 |   | Deploy Azure AD identity protection (14 Units)
