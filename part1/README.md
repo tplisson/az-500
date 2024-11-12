@@ -4,14 +4,13 @@
 
 Section | Exam Objective     |  Documentation   | Tutorial  |
 ------- | ------------------ |  --------------- | --------- | 
-
-**1.1** | **Manage Microsoft Entra identities** |
-| | Secure Microsoft Entra users
-| | Secure Microsoft Entra groups
-| | Recommend when to use external identities
-| | Secure external identities
-| | Implement Microsoft Entra ID Protection
-**1.2** | **Manage Manage Microsoft Entra authentication** | 
+**1.1** | **Manage Microsoft Entra identities** |  
+| | Secure Microsoft Entra users |  
+| | Secure Microsoft Entra groups |  
+| | Recommend when to use external identities |  
+| | Secure external identities |  
+| | Implement Microsoft Entra ID Protection |  
+**1.2** | **Manage Manage Microsoft Entra authentication** |  
 | | Implement multi-factor authentication (MFA)
 | | Configure Microsoft Entra Verified ID
 | | Implement passwordless authentication
