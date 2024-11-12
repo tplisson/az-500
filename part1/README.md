@@ -9,6 +9,8 @@ Section | Exam Objective     |
 
 </br>
 
+[Microsoft Entra ID documentation](https://learn.microsoft.com/en-us/entra/identity/)  
+
 [Poster - Microsoft Cloud Identity for Enterprise Architects](https://learn.microsoft.com/en-us/microsoft-365/solutions/cloud-architecture-models?view=o365-worldwide#microsoft-cloud-identity-for-it-architects)  
 
 </br>
@@ -27,11 +29,27 @@ Section | Exam Objective     |
 Microsoft Entra ID  
 <img src="../images/ms-entra-id-icon.png" alt="MS Entra ID logo"/>
 
-Azure AD Editions  
-<img src="../images/azure-ad-editions.jpg" alt="Azure AD Editions"/>
+Azure AD licenses  
+<img src="../images/azure-ad-licenses.jpg" alt="Azure AD Editions"/>
 
 Azure AD vs AD DS  
 <img src="../images/azure-ad-vs-ad-ds.jpg" alt="Azure AD vs. AD DS" style="height: 500px; width:auto;"/>
+
+### Security Principals  
+2 main types of principals:
+- **User Principal** representing people 
+  - Guests
+  - Cloud-Only users
+  - Directory-Synced Users
+- **Service Principal** representing an Application or Service
+
+(Device principals exist too by not focus of this exam)
+
+### Groups 
+Used to manage security principals at scale 
+Both Azure Entra ID and AD DS groups can co-exist in your tenant  
+
+
 
 ### Exam tips:
 
