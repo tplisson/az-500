@@ -14,9 +14,9 @@ Section | Exam Objective     |
 </br>
 
 ---  
-## **Manage Microsoft Entra identities**
+## **1.1 - Manage Microsoft Entra identities**
 
-Section 1.1 | Exam Objective     |  
+Section | Exam Objective     |  
 ------- | ------------------ |  
 | | Secure Microsoft Entra users |  
 | | Secure Microsoft Entra groups |  
@@ -51,7 +51,7 @@ Azure AD vs AD DS
 
 ---   
 
-## **Manage Manage Microsoft Entra authentication** 
+## **1.2 - Manage Manage Microsoft Entra authentication** 
 
 Section | Exam Objective     |  
 ------- | ------------------ |  
@@ -65,7 +65,7 @@ Section | Exam Objective     |
 
 ---   
 
-## **Manage Microsoft Entra authorization**
+## **1.3 - Manage Microsoft Entra authorization**
 
 Section | Exam Objective     |  
 ------- | ------------------ |  
@@ -79,7 +79,7 @@ Section | Exam Objective     |
 | | Implement Conditional Access policies
 
 ---   
-## **Manage Microsoft Entra application access**
+## **1.4 - Manage Microsoft Entra application access**
 
 Section | Exam Objective     |  
 ------- | ------------------ |  
