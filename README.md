@@ -5,13 +5,9 @@
 
 [Study Guide](https://learn.microsoft.com/en-gb/certifications/resources/study-guides/az-500)
 
-
-<a align="center" href="https://learn.microsoft.com/fr-fr/media/learn/certification/badges/microsoft-certified-associate-badge.svg">
-</a>
-
-<!-- <p align="center">
+<p align="left">
   <img src="images/az-500-badge.svg" {:height="25%" width="25%"}>
-</p> -->
+</p>
 <br/>
   
 ---  
