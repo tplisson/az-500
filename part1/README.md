@@ -46,8 +46,8 @@ Azure AD vs AD DS
 (Device principals exist too by not focus of this exam)
 
 ### Groups 
-. Used to manage security principals at scale   
-. Both Azure Entra ID and AD DS groups can co-exist in your tenant  
+- Used to manage security principals at scale   
+- Both Azure Entra ID and AD DS groups can co-exist in your tenant  
 
 
 
