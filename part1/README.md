@@ -30,7 +30,7 @@ Azure AD Editions
 <img src="../images/azure-ad-editions.jpg" alt="Azure AD Editions"/>
 
 Azure AD vs AD DS  
-<img src="../images/azure-ad-vs-ad-ds.jpg" alt="Azure AD vs. AD DS"/>
+<img src="../images/azure-ad-vs-ad-ds.jpg" alt="Azure AD vs. AD DS" style="height: 500px; width:auto;"/>
 
 ### Exam tips:
 
@@ -46,6 +46,7 @@ Azure AD vs AD DS
 - [x] Access Reviews
 - [x] Just-in-Time Access Management
   
+</br>
 
 ---   
 
