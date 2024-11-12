@@ -26,7 +26,7 @@ Section | Exam Objective     |
 Microsoft Entra ID <img src="../images/ms-entra-id-icon.png" alt="Azure AD Editions" style="height: 300px; width:auto;"/>
 
 Azure AD Editions  
-<img src="../images/azure-ad-edition.jpg" alt="Azure AD Editions" style="height: 300px; width:auto;"/>
+<img src="../images/azure-ad-editions.jpg" alt="Azure AD Editions" style="height: 300px; width:auto;"/>
 
 Azure AD vs AD DS  
 <img src="../images/azure-ad-vs-ad-ds.jpg" alt="Azure AD vs. AD DS" style="height: 300px; width:auto;"/>
