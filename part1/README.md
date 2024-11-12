@@ -17,20 +17,19 @@ Section | Exam Objective     |
 
 Section | Exam Objective     |  
 ------- | ------------------ |  
-**1.1** | **Manage Microsoft Entra identities** |  
 | | Secure Microsoft Entra users |  
 | | Secure Microsoft Entra groups |  
 | | Recommend when to use external identities |  
 | | Secure external identities |  
 | | Implement Microsoft Entra ID Protection |  
   
-Microsoft Entra ID <img src="../../images/ms-entra-id-icon.png" alt="Azure AD Editions" style="height: 300px; width:auto;"/>
+Microsoft Entra ID <img src="../images/ms-entra-id-icon.png" alt="Azure AD Editions" style="height: 300px; width:auto;"/>
 
 Azure AD Editions  
-<img src="../../images/Azure-AD-editions.jpg" alt="Azure AD Editions" style="height: 300px; width:auto;"/>
+<img src="../images/azure-ad-editions.jpg" alt="Azure AD Editions" style="height: 300px; width:auto;"/>
 
 Azure AD vs AD DS  
-<img src="../../images/Azure-AD-vs-ADDS.jpg" alt="Azure AD Editions" style="height: 300px; width:auto;"/>
+<img src="../images/azure-ad-vs-ad-ds.jpg" alt="Azure AD vs. AD DS" style="height: 300px; width:auto;"/>
 
 
 
@@ -40,7 +39,6 @@ Azure AD vs AD DS
 
 Section | Exam Objective     |  
 ------- | ------------------ |  
-**1.2** | **Manage Manage Microsoft Entra authentication** 
 | | Implement multi-factor authentication (MFA)
 | | Configure Microsoft Entra Verified ID
 | | Implement passwordless authentication
@@ -55,7 +53,6 @@ Section | Exam Objective     |
 
 Section | Exam Objective     |  
 ------- | ------------------ |  
-**1.3** | **Manage Microsoft Entra authorization**
 | | Configure Azure role permissions for management groups, subscriptions, resource groups, and resources
 | | Assign Microsoft Entra built-in roles
 | | Assign Azure built-in roles
@@ -70,7 +67,6 @@ Section | Exam Objective     |
 
 Section | Exam Objective     |  
 ------- | ------------------ |  
-**1.4** | **Manage Microsoft Entra application access**
 | | Manage access to enterprise applications in Microsoft Entra ID, including OAuth permission grants
 | | Manage Microsoft Entra app registrations
 | | Configure app registration permission scopes
