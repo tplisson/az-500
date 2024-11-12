@@ -24,7 +24,7 @@ Expiration |	12 months
 
 ## Exam Objectives as of Nov 2024
 
-[Exam objectives](https://learn.microsoft.com/en-us/certifications/exams/az-500/)
+[Exam objectives](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-500)
 
 Section | Exam Objective     |  Documentation   | Tutorial  |
 ------- | ------------------ |  --------------- | --------- | 
