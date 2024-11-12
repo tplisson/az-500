@@ -3,8 +3,8 @@
 Section | Exam Objective     |  
 ------- | ------------------ |  
 **1.1** | [**Manage Microsoft Entra identities**](#11---manage-microsoft-entra-identities)  
-**1.2** | [**Manage Manage Microsoft Entra authentication**](#12--manage-manage-microsoft-entra-authentication) |  
-**1.3** | [**Manage Microsoft Entra authorization**](#13--manage-microsoft-entra-authorization) |  
+**1.2** | [**Manage Manage Microsoft Entra authentication**](#12---manage-manage-microsoft-entra-authentication) |  
+**1.3** | [**Manage Microsoft Entra authorization**](#13---manage-microsoft-entra-authorization) |  
 **1.4** | [**Manage Microsoft Entra application access**](#14---manage-microsoft-entra-application-access) |  
 
 </br>
