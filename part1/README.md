@@ -1,13 +1,32 @@
 ## Part 1 - Manage Identity and Access (25–30%)
 
-Section | Exam Objective     |  Documentation   | Tutorial  |
-------- | ------------------ |  --------------- | --------- | 
+Section | Exam Objective     |  
+------- | ------------------ |  
+**1.1** | [**Manage Microsoft Entra identities**](#11---manage-microsoft-entra-identities)  
+**1.2** | [**Manage Manage Microsoft Entra authentication**](#12--manage-manage-microsoft-entra-authentication) |  
+**1.3** | [**Manage Microsoft Entra authorization**](#13--manage-microsoft-entra-authorization) |  
+**1.4** | [**Manage Microsoft Entra application access**](#14---manage-microsoft-entra-application-access) |  
+
+---  
+
+
+## **1.1** - **Manage Microsoft Entra identities**
+
+Section | Exam Objective     |  
+------- | ------------------ |  
 **1.1** | **Manage Microsoft Entra identities** |  
 | | Secure Microsoft Entra users |  
 | | Secure Microsoft Entra groups |  
 | | Recommend when to use external identities |  
 | | Secure external identities |  
 | | Implement Microsoft Entra ID Protection |  
+
+---   
+
+## **1.2** - **Manage Manage Microsoft Entra authentication** 
+
+Section | Exam Objective     |  
+------- | ------------------ |  
 **1.2** | **Manage Manage Microsoft Entra authentication** 
 | | Implement multi-factor authentication (MFA)
 | | Configure Microsoft Entra Verified ID
@@ -16,6 +35,13 @@ Section | Exam Objective     |  Documentation   | Tutorial  |
 | | Implement single sign-on (SSO)
 | | Integrate single sign on (SSO) and identity providers
 | | Recommend and enforce modern authentication methods
+
+---   
+
+## **1.3** - **Manage Microsoft Entra authorization**
+
+Section | Exam Objective     |  
+------- | ------------------ |  
 **1.3** | **Manage Microsoft Entra authorization**
 | | Configure Azure role permissions for management groups, subscriptions, resource groups, and resources
 | | Assign Microsoft Entra built-in roles
@@ -25,6 +51,12 @@ Section | Exam Objective     |  Documentation   | Tutorial  |
 | | Configure Microsoft Entra Privileged Identity Management
 | | Configure role management and access reviews in Microsoft Entra
 | | Implement Conditional Access policies
+
+---   
+## **1.4** - **Manage Microsoft Entra application access**
+
+Section | Exam Objective     |  
+------- | ------------------ |  
 **1.4** | **Manage Microsoft Entra application access**
 | | Manage access to enterprise applications in Microsoft Entra ID, including OAuth permission grants
 | | Manage Microsoft Entra app registrations
