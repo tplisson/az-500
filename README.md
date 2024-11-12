@@ -1,15 +1,11 @@
 # AZ-500 Microsoft Certified: Azure Security Engineer Associate — Study Notes
 ## Microsoft Azure Security Technologies
 
-[Exam objectives](https://learn.microsoft.com/en-us/certifications/exams/az-500/)
-
-[Study Guide](https://learn.microsoft.com/en-gb/certifications/resources/study-guides/az-500)
-
 <p align="left">
   <img src="images/az-500-badge.svg" {:height="25%" width="25%"}>
 </p>
 <br/>
-  
+
 ---  
 
 ## Exam details
@@ -27,6 +23,8 @@ Expiration |	12 months
 ---  
 
 ## Exam Objectives as of Nov 2024
+
+[Exam objectives](https://learn.microsoft.com/en-us/certifications/exams/az-500/)
 
 Section | Exam Objective     |  Documentation   | Tutorial  |
 ------- | ------------------ |  --------------- | --------- | 
@@ -80,6 +78,7 @@ Section | Exam Objective     |  Documentation   | Tutorial  |
 
 ## Resources  
 - [Microsoft Learn](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/?practice-assessment-type=certification)  
+- [Microsoft AZ-500 Study Guide](https://learn.microsoft.com/en-gb/certifications/resources/study-guides/az-500)
 - [A Cloud Guru](https://learn.acloud.guru/learning-path/azure-security)  
 - [Tutorials Dojo](https://portal.tutorialsdojo.com/courses/az-500-microsoft-azure-security-engineer-associate-practice-exams/)  
 
