@@ -7,6 +7,9 @@ Section | Exam Objective     |
 **1.3** | [**Manage Microsoft Entra authorization**](#13--manage-microsoft-entra-authorization) |  
 **1.4** | [**Manage Microsoft Entra application access**](#14---manage-microsoft-entra-application-access) |  
 
+
+[Poster - Microsoft Cloud Identity for Enterprise Architects](https://learn.microsoft.com/en-us/microsoft-365/solutions/cloud-architecture-models?view=o365-worldwide#microsoft-cloud-identity-for-it-architects)  
+
 ---  
 
 
@@ -20,6 +23,16 @@ Section | Exam Objective     |
 | | Recommend when to use external identities |  
 | | Secure external identities |  
 | | Implement Microsoft Entra ID Protection |  
+  
+Microsoft Entra ID <img src="../../images/ms-entra-id-icon.png" alt="Azure AD Editions" style="height: 300px; width:auto;"/>
+
+Azure AD Editions  
+<img src="../../images/Azure-AD-editions.jpg" alt="Azure AD Editions" style="height: 300px; width:auto;"/>
+
+Azure AD vs AD DS  
+<img src="../../images/Azure-AD-vs-ADDS.jpg" alt="Azure AD Editions" style="height: 300px; width:auto;"/>
+
+
 
 ---   
 
@@ -80,5 +93,3 @@ Section | Exam Objective     |
  -->
 
 ---  
-
-[Poster - Microsoft Cloud Identity for Enterprise Architects](https://learn.microsoft.com/en-us/microsoft-365/solutions/cloud-architecture-models?view=o365-worldwide#microsoft-cloud-identity-for-it-architects)
