@@ -23,8 +23,8 @@ Section | Exam Objective     |
 | | Secure external identities |  
 | | Implement Microsoft Entra ID Protection |  
   
-Microsoft Entra ID <img src="../images/ms-entra-id-icon.png" alt="Azure AD Editions"/>
-<!-- Microsoft Entra ID <img src="../images/ms-entra-id-icon.png" alt="Azure AD Editions" style="height: 300px; width:auto;"/> -->
+Microsoft Entra ID  
+<img src="../images/ms-entra-id-icon.png" alt="MS Entra ID logo"/>
 
 Azure AD Editions  
 <img src="../images/azure-ad-editions.jpg" alt="Azure AD Editions"/>
@@ -32,7 +32,20 @@ Azure AD Editions
 Azure AD vs AD DS  
 <img src="../images/azure-ad-vs-ad-ds.jpg" alt="Azure AD vs. AD DS"/>
 
+### Exam tips:
 
+**Azure AD Premium P1** is required to use:
+- [x] Azure AD Application Proxy
+- [x] Dynamic Groups
+- [x] Password Writeback
+- [x] Conditional Access 
+- [x] Password Protection
+
+**Azure AD Premium P2** is required to use:
+- [x] Identity Protection
+- [x] Access Reviews
+- [x] Just-in-Time Access Management
+  
 
 ---   
 
