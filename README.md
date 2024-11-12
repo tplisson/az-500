@@ -5,9 +5,13 @@
 
 [Study Guide](https://learn.microsoft.com/en-gb/certifications/resources/study-guides/az-500)
 
-<p align="center">
+
+<a align="center" href="https://learn.microsoft.com/fr-fr/media/learn/certification/badges/microsoft-certified-associate-badge.svg">
+</a>
+
+<!-- <p align="center">
   <img src="images/az-500-badge.svg" {:height="25%" width="25%"}>
-</p>
+</p> -->
 <br/>
   
 ---  
@@ -79,7 +83,7 @@ Section | Exam Objective     |  Documentation   | Tutorial  |
 
 
 ## Resources  
-- [Microsoft Leanr](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/?practice-assessment-type=certification)  
+- [Microsoft Learn](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/?practice-assessment-type=certification)  
 - [A Cloud Guru](https://learn.acloud.guru/learning-path/azure-security)  
 - [Tutorials Dojo](https://portal.tutorialsdojo.com/courses/az-500-microsoft-azure-security-engineer-associate-practice-exams/)  
 
