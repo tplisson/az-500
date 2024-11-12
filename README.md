@@ -18,23 +18,23 @@ Exam Details  |   |
 ------------- | - |  
 Assessment Type	| Multiple choice
 Format	| Online proctored
-Duration	| 150-210 mins
-Questions | 40 to 60 questions(One lab with around 12 sub-tasks) 
+Duration	| 100 mins
+<!-- Questions | 40 to 60 questions (One lab with around 12 sub-tasks)  -->
 Price	| $165 USD <sub>plus locally applicable taxes and fees</sub>
 Language	| English
 Expiration |	12 months
 
 ---  
 
-## Exam Objectives as of Aug 2023
+## Exam Objectives as of Nov 2024
 
 Section | Exam Objective     |  Documentation   | Tutorial  |
 ------- | ------------------ |  --------------- | --------- | 
 **1** | [**Manage Identity and Access (25–30%)**](part1/README.md)
-| | Manage identities in Azure AD
-| | Manage authentication by using Azure AD
-| | Manage authorization by using Azure AD
-| | Manage application access in Azure AD
+| | Manage Microsoft Entra identities
+| | Manage Microsoft Entra authentication
+| | Manage Microsoft Entra authorization
+| | Manage Microsoft Entra application access
 **2** | [**Secure networking (20–25%)**](part2/README.md) |
 | | Plan and implement security for virtual networks
 | | Plan and implement security for private access to Azure resources
