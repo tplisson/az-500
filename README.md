@@ -48,25 +48,10 @@ Section | Exam Objective     |  Documentation   | Tutorial  |
 | | Manage security posture by using Microsoft Defender for Cloud
 | | Configure and manage threat protection by using Microsoft Defender for Cloud
 | | Configure and manage security monitoring and automation solutions
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
-| | 
 
 
 
+<!-- 
 ## Exam Objectives - LEGACY
 
 | Section | Exam Objective     |  Documentation   | Tutorial  |
@@ -90,10 +75,15 @@ Section | Exam Objective     |  Documentation   | Tutorial  |
 |   **4** | **AZ-500 part 4: Manage security operation** (3 Modules)
 |   | Configure and manage Azure Monitor (10 Units)
 |   | Enable and manage Microsoft Defender for Cloud (12 Units)
-|   | Configure and monitor Microsoft Sentinel (9 Units)
+|   | Configure and monitor Microsoft Sentinel (9 Units) -->
 
 
-## Prep Videos
+## Resources  
+- [Microsoft Leanr](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/?practice-assessment-type=certification)  
+- [A Cloud Guru](https://learn.acloud.guru/learning-path/azure-security)  
+- [Tutorials Dojo](https://portal.tutorialsdojo.com/courses/az-500-microsoft-azure-security-engineer-associate-practice-exams/)  
+
+## Prep Videos  
 - [Preparing for AZ-500 - Manage identity and access (1 of 4)](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-az-500-manage-identity-and-access-1-of-4)
 - [Preparing for AZ-500 – Secure Networking (2 of 4)](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-az-500-secure-networking-2-of-4)
 - [Preparing for AZ-500 – Secure compute, storage, and databases (3 of 4)](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-az-500-secure-networking-3-of-4)
