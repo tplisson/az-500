@@ -1,7 +1,5 @@
 ## Part 1 - Manage Identity and Access (25–30%)
 
-## Exam Objectives as of Aug 2023
-
 Section | Exam Objective     |  Documentation   | Tutorial  |
 ------- | ------------------ |  --------------- | --------- | 
 **1.1** | **Manage Microsoft Entra identities** |  
@@ -10,7 +8,7 @@ Section | Exam Objective     |  Documentation   | Tutorial  |
 | | Recommend when to use external identities |  
 | | Secure external identities |  
 | | Implement Microsoft Entra ID Protection |  
-**1.2** | **Manage Manage Microsoft Entra authentication** |  
+**1.2** | **Manage Manage Microsoft Entra authentication** 
 | | Implement multi-factor authentication (MFA)
 | | Configure Microsoft Entra Verified ID
 | | Implement passwordless authentication
@@ -37,9 +35,6 @@ Section | Exam Objective     |  Documentation   | Tutorial  |
 | | Recommend when to use and configure an Microsoft Entra Application Proxy, including authentication
 
 
----
-
-
 <!-- ## Exam Objectives - LEGACY
 
 | Section | Exam Objective     |  Documentation   | Tutorial  |
@@ -52,3 +47,6 @@ Section | Exam Objective     |  Documentation   | Tutorial  |
 | 1.5  | Design an enterprise governance strategy (14 Units)
  -->
 
+---  
+
+[Poster - Microsoft Cloud Identity for Enterprise Architects](https://learn.microsoft.com/en-us/microsoft-365/solutions/cloud-architecture-models?view=o365-worldwide#microsoft-cloud-identity-for-it-architects)
