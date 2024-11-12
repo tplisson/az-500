@@ -1,4 +1,4 @@
-## Part 1 - Manage Identity and Access (25–30%)
+## Manage Identity and Access (25–30%)
 
 Section | Exam Objective     |  
 ------- | ------------------ |  
@@ -7,15 +7,16 @@ Section | Exam Objective     |
 **1.3** | [**Manage Microsoft Entra authorization**](#13--manage-microsoft-entra-authorization) |  
 **1.4** | [**Manage Microsoft Entra application access**](#14---manage-microsoft-entra-application-access) |  
 
+</br>
 
 [Poster - Microsoft Cloud Identity for Enterprise Architects](https://learn.microsoft.com/en-us/microsoft-365/solutions/cloud-architecture-models?view=o365-worldwide#microsoft-cloud-identity-for-it-architects)  
 
+</br>
+
 ---  
+## **Manage Microsoft Entra identities**
 
-
-## **1.1** - **Manage Microsoft Entra identities**
-
-Section | Exam Objective     |  
+Section 1.1 | Exam Objective     |  
 ------- | ------------------ |  
 | | Secure Microsoft Entra users |  
 | | Secure Microsoft Entra groups |  
@@ -50,7 +51,7 @@ Azure AD vs AD DS
 
 ---   
 
-## **1.2** - **Manage Manage Microsoft Entra authentication** 
+## **Manage Manage Microsoft Entra authentication** 
 
 Section | Exam Objective     |  
 ------- | ------------------ |  
@@ -64,7 +65,7 @@ Section | Exam Objective     |
 
 ---   
 
-## **1.3** - **Manage Microsoft Entra authorization**
+## **Manage Microsoft Entra authorization**
 
 Section | Exam Objective     |  
 ------- | ------------------ |  
@@ -78,7 +79,7 @@ Section | Exam Objective     |
 | | Implement Conditional Access policies
 
 ---   
-## **1.4** - **Manage Microsoft Entra application access**
+## **Manage Microsoft Entra application access**
 
 Section | Exam Objective     |  
 ------- | ------------------ |  
