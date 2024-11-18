@@ -49,6 +49,39 @@ Azure AD vs AD DS
 - Used to manage security principals at scale   
 - Both Azure Entra ID and AD DS groups can co-exist in your tenant  
 
+2 types of Groups:  
+- [x] Security Groups:  
+  - Users  
+  - Services Principals  
+  - nested Security Groups  
+- [x] MS 365 Groups  
+  - Users (only)
+
+### Dynamic Groups 
+Group membership **based on properties**  
+Using Membership **rules**
+Group owners can modify group memberships  
+
+***Limitations***:
+- Entra ID P1 license required  
+- Service Principals cannot be members  
+- MS365 Dynamic Groups cannot contain devices  
+- Cannot mix membership, either:  
+  - Dynamic User  
+  or  
+  - Dynamic Device  
+- Deleted MS365 Groups are retained for 30 days  
+- Deleted Security Groups are NOT retained  
+
+### Service Principals
+For applications only
+- **App Registration** --> Service Principal --> Roles & Permissions
+  - MS does NOT manage the credentials 
+- **Managed Identity** 
+  - another Azure or on-prem resource
+  - MS manages the credentials 
+   --> Service Principal --> Roles & Permissions
+
 
 
 ### Exam tips:
