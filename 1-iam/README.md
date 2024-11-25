@@ -45,16 +45,24 @@ Azure AD vs AD DS
 
 (Device principals exist too by not focus of this exam)
 
+### Users
+Types of Users:
+- Internal member  
+- Internal guest  
+- External member  
+- External guest  
+  
+
 ### Groups 
 - Used to manage security principals at scale   
 - Both Azure Entra ID and AD DS groups can co-exist in your tenant  
 
 2 types of Groups:  
-- [x] Security Groups:  
+- [x] **Security Groups**:  
   - Users  
   - Services Principals  
   - nested Security Groups  
-- [x] MS 365 Groups  
+- [x] **MS 365 Groups** (for MS365 collaboration)
   - Users (only)
 
 ### Dynamic Groups 
@@ -77,11 +85,21 @@ Group owners can modify group memberships
 For applications only
 - **App Registration** --> Service Principal --> Roles & Permissions
   - MS does NOT manage the credentials 
+  - Bt default, any member user can register an application they own
 - **Managed Identity** 
   - another Azure or on-prem resource
   - MS manages the credentials 
-   --> Service Principal --> Roles & Permissions
+  - System-Assigned: only 1 single Azure resource
+  - USer-Assigned: many to many resources
 
+Authentication:
+- Password-based  
+- Certificate-based 
+
+Roles:
+- Application Developper = your app
+- Cloud Application Administrator = ALL apps ! 
+- Application Administrator = Application Proxy  
 
 
 ### Exam tips:
