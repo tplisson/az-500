@@ -106,7 +106,7 @@ Roles:
 
 ### MS Entra External ID  
 
-<img src="../images/ms-entra-ext-id-overview.png" alt="MS Entra External ID Overview"/>  
+<img src="https://learn.microsoft.com/en-us/entra/external-id/media/external-identities-overview/external-identities-overview.png" alt="MS Entra External ID Overview"/>  
 
 - [x] B2B Business to Business  
 - [x] B2C Business to Consumer  
