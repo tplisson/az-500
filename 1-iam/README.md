@@ -42,8 +42,8 @@ Azure AD vs AD DS
   - Cloud-Only users
   - Directory-Synced Users
 - **Service Principal** representing an Application or Service
+- **Device principal** (not the focus of this exam)  
 
-(Device principals exist too by not focus of this exam)
 
 ### Users
 Types of Users:
@@ -101,6 +101,19 @@ Roles:
 - Cloud Application Administrator = ALL apps ! 
 - Application Administrator = Application Proxy  
 
+
+### MS Entra External ID  
+
+<img src="../images/ms-entra-ext-id-overview.png" alt="MS Entra External ID Overview"/>  
+
+- [x] B2B Business to Business  
+- [x] B2C Business to Consumer  
+
+B2B Collaboration 
+- Partner using own identity solution  
+- Enabled by default
+- No need to manage external accounts & passwords  
+- No need to sync accounts
 
 ### Exam tips:
 
