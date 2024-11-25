@@ -1,4 +1,4 @@
-## Manage Identity and Access (25–30%)
+`## Manage Identity and Access (25–30%)
 
 Section | Exam Objective     |  
 ------- | ------------------ |  
@@ -68,7 +68,9 @@ Types of Users:
 ### Dynamic Groups 
 Group membership **based on properties**  
 Using Membership **rules**
-Group owners can modify group memberships  
+Group owners cannot modify group memberships  
+Only Group Admins can manage dynamic membership 
+Only users can be a member of a security group with the dynamic user membership type  
 
 ***Limitations***:
 - Entra ID P1 license required  
@@ -90,7 +92,7 @@ For applications only
   - another Azure or on-prem resource
   - MS manages the credentials 
   - System-Assigned: only 1 single Azure resource
-  - USer-Assigned: many to many resources
+  - User-Assigned: many to many resources
 
 Authentication:
 - Password-based  
@@ -114,6 +116,13 @@ B2B Collaboration
 - Enabled by default
 - No need to manage external accounts & passwords  
 - No need to sync accounts
+- Self-service sign-up cannot be used with MS apps 
+
+B2C Collaboration  
+- Any SAML IdP  
+- B2C Members are created in a separate dedicated B2C tenant  
+- External identities licenses are shared with B2B users  
+- B2C users cannot be useed to access MS resources secured by your Entra ID tenant  
 
 ### Exam tips:
 
@@ -145,6 +154,29 @@ Section | Exam Objective     |
 | | Integrate single sign on (SSO) and identity providers
 | | Recommend and enforce modern authentication methods
 
+
+### MFA  
+Security Defaults = security baseline for all users
+14 days to activate MFA after 1st login
+
+<img src="https://learn.microsoft.com/en-gb/entra/fundamentals/media/security-defaults/security-defaults-entra-admin-center.png#lightbox" alt="Security Defaults UI"/>  
+
+Premium P1: Conditional Access
+Premium P2: Risk-based Conditional Access 
+
+
+
+### Verified ID  
+decentralized ID
+
+### Passwordless  
+
+### Password Protection  
+
+### SSO 
+
+
+
 ---   
 
 ## **1.3 - Manage Microsoft Entra authorization**
@@ -159,6 +191,10 @@ Section | Exam Objective     |
 | | Configure Microsoft Entra Privileged Identity Management
 | | Configure role management and access reviews in Microsoft Entra
 | | Implement Conditional Access policies
+
+### Conditional Access
+"if, then" policies
+
 
 ---   
 ## **1.4 - Manage Microsoft Entra application access**
