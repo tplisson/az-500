@@ -178,7 +178,7 @@ decentralized ID
 Requirements:
 - License:
   - Free: Global banned password list  
-  - Premium P1: Custom banned password list
+  - ***Premium P1: Custom banned password list***
 - Role to modify password protection policies: 
   - Security Admin
   - AD Domain Admin (for on-prem AD DS)  
@@ -205,7 +205,7 @@ For each sign-in, ID Protection:
 -[x] **User risk** = probability that an *identity* is compromised
 -[x] **Sign-in risk** = probability that a *sign-in* is compromised
 -[x] Requirements for **Identity Protection**:
-  - [x] Premium P2 license
+  - [x] ***Premium P2 license***
   - [x] Role: 
     - Conditional Access Admin
     - Security Admin
