@@ -199,16 +199,16 @@ For each sign-in, ID Protection:
 - Based on this risk level, policies are then applied to protect the user and the organization
 
 
-<img src="https://learn.microsoft.com/en-us/entra/id-protection/media/overview-identity-protection/identity-protection-overview.png" alt="MS Entra ID Protection Overview"/>   
+<img src="https://learn.microsoft.com/en-us/entra/id-protection/media/overview-identity-protection/identity-protection-overview.png" alt="MS Entra ID Protection Overview"/>    
 
 ***Exam Tips:***  
--[x] **User risk** = probability that an *identity* is compromised
--[x] **Sign-in risk** = probability that a *sign-in* is compromised
--[x] Requirements for **Identity Protection**:
-  - [x] ***Premium P2 license***
-  - [x] Role: 
-    - Conditional Access Admin
-    - Security Admin
+-[x] **User risk** = probability that an *identity* is compromised  
+-[x] **Sign-in risk** = probability that a *sign-in* is compromised  
+-[x] Requirements for **Identity Protection**:  
+  - [x] ***Premium P2 license***  
+  - [x] Role:   
+    - Conditional Access Admin  
+    - Security Admin  
 
 
 
