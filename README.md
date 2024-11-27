@@ -28,7 +28,7 @@ Expiration |	12 months
 
 Section | Exam Objective     |  Documentation   | Tutorial  |
 ------- | ------------------ |  --------------- | --------- | 
-**1** | [**Manage Identity and Access (25–30%)**](1-iam/README.md)
+**1** | [**Manage Identity and Access (25–30%)**](1-iam/README.md) | [MS Entra ID Documentation](https://learn.microsoft.com/en-us/entra/)
 | | Manage Microsoft Entra identities
 | | Manage Microsoft Entra authentication
 | | Manage Microsoft Entra authorization
