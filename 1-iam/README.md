@@ -124,7 +124,12 @@ B2C Collaboration
 - External identities licenses are shared with B2B users  
 - B2C users cannot be useed to access MS resources secured by your Entra ID tenant  
 
+
+
+
 ### Exam tips:
+
+[Microsoft Entra ID Licenses](https://www.microsoft.com/en-us/security/business/microsoft-entra-pricing)
 
 **Azure AD Premium P1** is required to use:
 - [x] Azure AD Application Proxy
@@ -161,25 +166,94 @@ Security Defaults = security baseline for all users
 
 <img src="https://learn.microsoft.com/en-gb/entra/fundamentals/media/security-defaults/security-defaults-entra-admin-center.png#lightbox" alt="Security Defaults UI"/>  
 
-Premium P1: Conditional Access
-Premium P2: Risk-based Conditional Access 
-
 
 
 ### Verified ID  
-decentralized ID
+decentralized ID  
 
 ### Passwordless  
 
 ### Password Protection  
 
-### SSO 
+Requirements:
+- License:
+  - Free: Global banned password list  
+  - Premium P1: Custom banned password list
+- Role to modify password protection policies: 
+  - Security Admin
+  - AD Domain Admin (for on-prem AD DS)  
+
+### SSO  
+Centralizing 
+
+### Identity Protection
+Microsoft Entra ID Protection detects risky behaviors like:
+- Anonymous IP address usage
+- Password spray attacks
+- Leaked credentials
+- and more...
+
+For each sign-in, ID Protection:
+- Runs all [risk detections](https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks)  
+- Generate a sign-in session risk level (how likely the sign-in is compromised)
+- Based on this risk level, policies are then applied to protect the user and the organization
+
+
+<img src="https://learn.microsoft.com/en-us/entra/id-protection/media/overview-identity-protection/identity-protection-overview.png" alt="MS Entra ID Protection Overview"/>   
+
+***Exam Tips:***
+-[x] **User risk** = probability that an *identity* is compromised
+-[x] **Sign-in risk** = probability that a *sign-in* is compromised
+-[x] Requirements for **Identity Protection**:
+  - [x] Premium P2 license
+  - [x] Role: 
+    - Conditional Access Admin
+    - Security Admin
+
+
+
+### Hybrid Identity Solutions  
+On-premises & cloud-based identity solutions  
+
+**Entra Connect**  
+- Legacy offering
+- Pass-Through Auth.
+
+**Entra Cloud Sync**  
+- New offering
+- Light-weight agent (simplified installation)
+- High Availability available with multiple Agents
+- Ability to connect miltiple disconnected on-prem AD forests
+
+Authentication Methods:
+- [x] Password Hash Synchronization  
+- [x] Pass-through Authentication
+- [x] Federation
+
+#### Password Hash Sync  
+recommended solution  
+relies on Entra Connect 
+
+<img src="https://learn.microsoft.com/en-us/entra/identity/hybrid/connect/media/how-to-connect-password-hash-synchronization/arch1.png" alt="MS Entra ID Password Hash Synchronization"/>   
+
+#### Pass-through Authentication
+
+#### Federation
+
+
+
+### Password Writeback  
+- Password Writeback for AD DS Self-Service Password Reset (SSPR) 
+  - P1 license
+  - Provisioning Agents deployed on AD DS  member servers
+
+
 
 
 
 ---   
 
-## **1.3 - Manage Microsoft Entra authorization**
+## **1.3 - Manage Microsoft Entra authorization**  
 
 Section | Exam Objective     |  
 ------- | ------------------ |  
@@ -192,8 +266,24 @@ Section | Exam Objective     |
 | | Configure role management and access reviews in Microsoft Entra
 | | Implement Conditional Access policies
 
-### Conditional Access
+### Conditional Access  
 "if, then" policies
+
+Requirements:
+- License:
+  - Premium P1: Conditional Access  
+  - Premium P2: Risk-based Conditional Access   
+- Role: 
+  - Conditional Access Admin
+  - Security Admin
+
+Named location > to relax or deny access from countries or IP ranges
+
+Best practice: 
+- Exclude break-glass accounts!
+- Enable policies in "report-only" mode before enabling  
+- Test using user account & group
+
 
 
 ---   
