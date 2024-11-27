@@ -166,12 +166,16 @@ Security Defaults = security baseline for all users
 
 <img src="https://learn.microsoft.com/en-gb/entra/fundamentals/media/security-defaults/security-defaults-entra-admin-center.png#lightbox" alt="Security Defaults UI"/>  
 
-
+</br>
 
 ### Verified ID  
 decentralized ID  
 
+</br>
+
 ### Passwordless  
+
+</br>
 
 ### Password Protection  
 
@@ -183,8 +187,12 @@ Requirements:
   - Security Admin
   - AD Domain Admin (for on-prem AD DS)  
 
+</br>
+
 ### SSO  
 Centralizing 
+
+</br>
 
 ### Identity Protection
 Microsoft Entra ID Protection detects risky behaviors like:
@@ -210,7 +218,7 @@ For each sign-in, ID Protection:
     - Conditional Access Admin  
     - Security Admin  
 
-
+</br>
 
 ### Hybrid Identity Solutions  
 On-premises & cloud-based identity solutions  
