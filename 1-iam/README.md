@@ -238,6 +238,8 @@ Authentication Methods:
 - [x] Pass-through Authentication
 - [x] Federation
 
+</br>
+
 #### Password Hash Sync  
 recommended solution  
 relies on Entra Connect 
